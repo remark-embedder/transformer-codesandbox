@@ -33,7 +33,6 @@ This is a [`@remark-embedder`][@remark-embedder/core] transformer for
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Inspiration](#inspiration)
@@ -51,13 +50,13 @@ This is a [`@remark-embedder`][@remark-embedder/core] transformer for
 This module is distributed via [npm][npm] which is bundled with [node][node] and
 should be installed as one of your project's `dependencies`:
 
-```
-npm install --save @remark-embedder/transformer-codesandbox
+```shell
+npm install @remark-embedder/transformer-codesandbox
 ```
 
 ## Usage
 
-```typescript
+```ts
 import remarkEmbedder from '@remark-embedder/core'
 import CodeSandboxTransformer from '@remark-embedder/transformer-codesandbox'
 // or, if you're using CommonJS require:
