@@ -133,7 +133,7 @@ Thanks goes to these people ([emoji key][emojis]):
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://michaeldeboey.be"><img src="https://avatars3.githubusercontent.com/u/6643991?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michaël De Boey</b></sub></a><br /><a href="https://github.com/remark-embedder/transformer-codesandbox/commits?author=MichaelDeBoey" title="Code">💻</a> <a href="https://github.com/remark-embedder/transformer-codesandbox/commits?author=MichaelDeBoey" title="Documentation">📖</a> <a href="#infra-MichaelDeBoey" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/remark-embedder/transformer-codesandbox/commits?author=MichaelDeBoey" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://michaeldeboey.be"><img src="https://avatars3.githubusercontent.com/u/6643991?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michaël De Boey</b></sub></a><br /><a href="https://github.com/remark-embedder/transformer-codesandbox/commits?author=MichaelDeBoey" title="Code">💻</a> <a href="https://github.com/remark-embedder/transformer-codesandbox/commits?author=MichaelDeBoey" title="Documentation">📖</a> <a href="#infra-MichaelDeBoey" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/remark-embedder/transformer-codesandbox/commits?author=MichaelDeBoey" title="Tests">⚠️</a> <a href="#maintenance-MichaelDeBoey" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
