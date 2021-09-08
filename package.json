@@ -47,7 +47,7 @@
     "@types/jest": "^27.0.0",
     "kcd-scripts": "^9.0.0",
     "remark": "^13.0.0",
-    "remark-html": "^13.0.1",
+    "remark-html": "^14.0.1",
     "typescript": "^4.2.4"
   },
   "peerDependencies": {
