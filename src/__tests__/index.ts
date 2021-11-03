@@ -1,6 +1,6 @@
 import remarkEmbedder from '@remark-embedder/core'
 import remark from 'remark'
-import html from 'remark-html'
+import remarkHTML from 'remark-html'
 
 import CodeSandboxTransformer from '../'
 
@@ -16,7 +16,7 @@ test('smoke test', async () => {
     .use(remarkEmbedder, {
       transformers: [CodeSandboxTransformer],
     })
-    .use(html)
+    .use(remarkHTML, {sanitize: false})
     .process(
       `
 This is a CodeSandbox:
