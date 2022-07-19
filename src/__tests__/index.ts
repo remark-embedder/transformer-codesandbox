@@ -1,5 +1,5 @@
 import remarkEmbedder from '@remark-embedder/core'
-import remark from 'remark'
+import {remark} from 'remark'
 import remarkHTML from 'remark-html'
 
 import CodeSandboxTransformer from '../'
