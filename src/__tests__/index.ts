@@ -12,12 +12,14 @@ const unquoteSerializer = {
 expect.addSnapshotSerializer(unquoteSerializer)
 
 test('smoke test', async () => {
-  const result = await remark()
+  const processor = remark()
     .use(remarkEmbedder, {
       transformers: [CodeSandboxTransformer],
     })
+    // @ts-expect-error - Type inference issue with remark plugins
     .use(remarkHTML, {sanitize: false})
-    .process(
+  
+  const result = await processor.process(
       `
 This is a CodeSandbox:
 
