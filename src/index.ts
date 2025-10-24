@@ -1,4 +1,4 @@
-import type {Transformer} from '@remark-embedder/core'
+import {type Transformer} from '@remark-embedder/core'
 
 const transformer: Transformer = {
   getHTML: urlString => {
